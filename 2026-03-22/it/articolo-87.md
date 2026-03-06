@@ -18,7 +18,7 @@ Accredita e riceve i rappresentanti diplomatici, ratifica i trattati internazion
 
 Ha il comando delle Forze armate, presiede il Consiglio supremo di difesa costituito secondo la legge, dichiara lo stato di guerra deliberato dalle Camere [cfr. [art. 78](https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-78)].
 
-Presiede il Consiglio superiore della magistratura [cfr. [art. 104 c.2](https://www.senato.it/istituzione/la-costituzione/parte-ii/titolo-iv/sezione-i/articolo-104)].
+Presiede il Consiglio superiore della magistratura giudicante e il Consiglio superiore della magistratura requirente [cfr. [art. 104 c.2](https://www.senato.it/istituzione/la-costituzione/parte-ii/titolo-iv/sezione-i/articolo-104)].
 
 Può concedere grazia e commutare le pene.
 

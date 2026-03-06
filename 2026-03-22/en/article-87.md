@@ -18,7 +18,7 @@ He accredits and receives diplomatic representatives, ratifies international tre
 
 He has command of the Armed Forces, chairs the Supreme Council of Defense constituted according to law, and declares a state of war deliberated by the Chambers [cf. [Art. 78](https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-78)].
 
-He chairs the High Council of the Judiciary [cf. [Art. 104 para. 2](https://www.senato.it/istituzione/la-costituzione/parte-ii/titolo-iv/sezione-i/articolo-104)].
+He chairs the High Council of the Judiciary for judges and the High Council of the Judiciary for prosecutors [cf. [Art. 104 para. 2](https://www.senato.it/istituzione/la-costituzione/parte-ii/titolo-iv/sezione-i/articolo-104)].
 
 He may grant pardons and commute sentences.
 
